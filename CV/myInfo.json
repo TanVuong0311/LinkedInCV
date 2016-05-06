@@ -1,0 +1,99 @@
+
+{
+  "hometown": "Da Lat, Lam Dong, Viet Nam",
+  "current": "3/48 Thanh Thai, Quan 10, tpHCM",
+  "industry": "developer",
+  "link": "https://www.linkedin.com/in/van-wall-b3a738b7?authType=NAME_SEARCH&authToken=WbTZ&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A416871262%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1461761530014%2Ctas%3Avan",
+  "job": "Student at University of Science",
+  "university":  "University of Science - National University",
+  "unilink": "https://www.linkedin.com/edu/school?id=194005&trk=edu-cp-title;trk=prof-edu-school-logo",
+
+  "name": "Van Wall",
+  "contactInfo": {
+    "twitter": "abc",
+    "facebook": "",
+    "google+": ""
+  },
+  "panels":[
+    {
+      "panelName": "Background",
+      "panelContent": [
+        {
+          "Label": "Summary",
+          "Content": [
+            {"summary": "Currently Student at University of Science, the National University of Viet Nam."},
+            {"summary": "I am a third year student, and i enjoy woking with machine more than working with human"},
+            {"summary": "Desire to have a job in order to develop and improve human life, from the smallest, closest things like daily-used device for example."},
+            {"summary": "Can adapt to the new environment but also want a stable, comfortable one so working long-term at a certain company is prioritized."},
+            {"summary": "I want to be doing in the field of software developer. My desire is to find a job matching capabilities, dreams and my own interests."},
+            {"summary": "My foregign language is English, which i have TOEIC Trial Test 650 Certification (VACT) and also VNU - ept Certification (form National University of Viet Nam)"}
+            ]
+        },
+        {
+          "Label": "Experience & Projects",
+          "Content":
+            {
+              "detail": "BGCP serves youth in grades K–12 at nine locations: three clubhouses and six school sites in East Palo Alto, Menlo Park, and Redwood City, where over half the youth drop out of high school. While most youth development organizations select the young people whom they serve, BGCP serves all youth. The organization has grown rapidly over the past five years and now serves 2,000 active members at its nine sites.",
+              "cmt": "(though not yet many experiences, so it's just example')",
+              "location": "Greater New York City Area",
+              "title": "Member, Advisory Board",
+              "description": "Innovative fellowship program that places top college graduates in start-ups for two years in low-cost U.S. cities to generate job growth and train the next generation of entrepreneurs.",
+              "time": "2012 - present",
+              "care1": "Math - calculate - logic",
+              "care2": "Software programming",
+              "care3": "Improve human life",
+              "proj1": "My paint",
+              "proj2": "English app"
+            }
+        },
+
+        {
+          "Label": "Skills",
+          "Content": [
+            {
+              "name": "C# .NET",
+              "level": "10",
+              "link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+            },
+            {
+              "name": "Java",
+              "level": "8",
+              "link": "https://en.wikipedia.org/wiki/Java"
+            },
+            {
+              "name": "C C++",
+              "level": "8",
+              "link": "https://en.wikipedia.org/wiki/C%2B%2B"
+            },
+            {
+              "name": "OOP",
+              "level": "8",
+              "link": "https://en.wikipedia.org/wiki/Object-oriented_programming"
+            }
+          ]
+        },
+        {
+          "Label": "Education",
+          "Content":[
+            {
+              "degree": "Bachelor of Information Technology, Software Engineer",
+              "time": "2013 - July 2017",
+              "university":  "University of Science - National University",
+              "image": "./Data/AAEAAQAAAAAAAAdXAAAAJGE4NGMyZTNlLWVjNmQtNDZhMi1iMTllLTY3ZmIzZGE0NGU4Ng.png",
+              "imagelink":"http://www.cfl.hcmus.edu.vn/dtool/thumb/data/web613/logo-khtn-250x196.jpg",
+              "unilink": "https://www.linkedin.com/edu/school?id=194005&trk=edu-cp-title;trk=prof-edu-school-logo"
+            },
+            {
+              "degree": "Graduated",
+              "time": "2010 - July 2013",
+              "university":  "THPT Bui Thi Xuan, Da Lat, Lam Dong",
+              "image": "",
+              "imagelink":"http://buithixuandalat.edu.vn/templates/skylab/images/logo.png",
+              "unilink": "https://http://buithixuandalat.edu.vn/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
